@@ -13,7 +13,7 @@
 Node.JS and Inquirer package from npm must be installed. Util and fs were also utilized.
 ### Usage
 A simple application where all the user needs to do is answer the prompts in their terminal/console. They quickly type out their answers and a good quality README.md will be generated. It will cut down on time and enhance the users performance on project specifics.
-![video](https://drive.google.com/file/d/16gL079lbqAr3yMCnPeyLqQO7l-fs0ii8/view)
+![image 1](images/ReadMeNodeScreen.gif)
 ### License
 ISC
 ### Contributing
