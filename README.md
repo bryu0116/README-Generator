@@ -17,7 +17,7 @@ A simple application where all the user needs to do is answer the prompts in the
 ### License
 ISC
 ### Contributing
-[Alexandra Hionis](https://github.com/bryu0116/README-Generator)
+[Brandon Ryu](https://github.com/bryu0116/README-Generator)
 ### Tests
 No tests were used
 ### Questions
